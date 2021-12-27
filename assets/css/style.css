@@ -1,0 +1,20 @@
+/* *{
+    border: 2px red solid;
+} */
+
+body{
+    background-color: #FFF;
+}
+
+.busqueda{
+    background-color: #272727;
+    color: #E3E2DF;
+}
+
+.btn-mine{
+    background-color: #FFE400;
+}
+
+.card{
+    color:#272727 ;
+}
